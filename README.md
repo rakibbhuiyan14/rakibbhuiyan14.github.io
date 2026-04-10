@@ -40,8 +40,8 @@ Official website of Mohammad Rakibur Rahman Bhuiyan - Football Coach and Grassro
   </section>
 
   <section style="background:#222; color:white; padding:40px; text-align:center;">
-    <h2>Contact</h2>
-    <p>Email: your@email.com</p>
+    <h2>Contact: +880-1715874096</h2>
+    <p>Email: rakibrahman93@email.com</p>
     <p>Facebook | YouTube</p>
   </section>
 
