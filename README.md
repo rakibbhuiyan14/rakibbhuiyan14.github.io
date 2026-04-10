@@ -5,7 +5,7 @@ Official website of Mohammad Rakibur Rahman Bhuiyan - Football Coach and Grassro
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><h5>Rakib Bhuiyan | Football Coach Bangladesh</h5></title>
+  <h1>Rakib Bhuiyan | Football Coach Bangladesh</h1>
   <meta name="description" content="Mohammad Rakibur Rahman Bhuiyan - Football Coach, Grassroots Trainer from Bangladesh.">
 </head>
 
