@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Rakib Bhuiyan | Football Coach Bangladesh</title>
+
+<meta name="description" content="Mohammad Rakibur Rahman Bhuiyan - Football Coach and Grassroots Trainer from Bangladesh">
+<meta name="keywords" content="Rakib Bhuiyan, Football Coach Bangladesh, Grassroots Football">
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap" rel="stylesheet">
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: #0a0a0a;
+  color: white;
+}
+
+header {
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+              url('https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 50px;
+  margin: 0;
+}
+
+header p {
+  font-size: 20px;
+  color: #00ff9c;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #00ff9c;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.about {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background: #1a1a1a;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: black;
+  color: #aaa;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Rakib Bhuiyan</h1>
+  <p>Football Coach | Grassroots Trainer</p>
+  <a href="#contact" class="btn">Contact Me</a>
+</header>
+
+<section class="about">
+  <h2>About Me</h2>
+  <p>
+    Mohammad Rakibur Rahman Bhuiyan is a passionate football coach from Bangladesh,
+    focused on developing young players through modern training methods including
+    passing, shooting, and tactical awareness.
+  </p>
+</section>
+
+<section>
+  <h2>Training Programs</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Passing Drill</h3>
+      <p>Improve accuracy and quick passing skills.</p>
+    </div>
+
+    <div class="card">
+      <h3>Shooting Training</h3>
+      <p>Learn finishing techniques and power shots.</p>
+    </div>
+
+    <div class="card">
+      <h3>Fitness</h3>
+      <p>Build stamina, speed, and agility.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>My Mission</h2>
+  <p style="text-align:center;">
+    My goal is to develop grassroots football in Bangladesh and help young players
+    reach their full potential.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p style="text-align:center;">
+    Email: your@email.com <br>
+    Facebook: fb.com/yourpage
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Rakib Bhuiyan | Football Coach Bangladesh</p>
+</footer>
+
+</body>
+</html>
